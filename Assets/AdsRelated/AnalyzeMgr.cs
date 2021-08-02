@@ -767,11 +767,7 @@ public class AnalyzeMgr : MonoBehaviour
         SendEvent(NOT_ENOUGH_REFILL_TAP_REWARD, SystemInfo.deviceUniqueIdentifier);
     }
 
-    const string FREE_SPIN = "free_spin";
 
-    public string GOLD_SPIN = "gold_spin";
-
-    public string REWARD_SPIN = "reward_spin";
 
     public static bool IsGroupA()
     {

@@ -87,9 +87,6 @@ public class InitMgr : MonoBehaviour
     }
 
 
-
-    public int MAX_LEVEL_INDEX = 6;
-
     int _btnTouchIndex = 0;
     bool _isWinThisTime = true;
 
